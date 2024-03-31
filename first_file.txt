@@ -7,5 +7,4 @@ Vindhya is amazing as Vindhya is learning git and doing scaler!!
 abcd
 edfgh
 1234
->>>>>>> feature-1
 Really excited to learn git
